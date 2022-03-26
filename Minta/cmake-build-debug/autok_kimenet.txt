@@ -1,0 +1,16 @@
+Car details:
+	ID: 1
+	Brand: BMW
+	Nr_Plate: B112JJK
+	Year: 2005
+	Type: Hybrid
+	Color: Blue
+
+Car details:
+	ID: 2
+	Brand: Volvo
+	Nr_Plate: MS12KJL
+	Year: 2
+	Type: Benzin
+	Color: Blue
+

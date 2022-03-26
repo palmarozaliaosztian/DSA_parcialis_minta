@@ -1,0 +1,9 @@
+Car details:
+	ID: 2
+	Brand: mercedes
+	Nr_Plate: B45hjk
+	Year: 2012
+	Type: Benzin
+	Color: Blue
+
+Megye: B
